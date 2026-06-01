@@ -1,0 +1,16 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "Discord Music Bot with Arabic prefix using Discord.js v14 and DisTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "distube": "^5.2.3",
+    "@distube/youtube": "^1.0.4",
+    "opusscript": "^0.1.1",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
